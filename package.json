@@ -1,0 +1,17 @@
+{
+  "name": "telegram-bot-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "telegram-bot"
+  ],
+  "author": "rusbex",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
